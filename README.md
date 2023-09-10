@@ -2,5 +2,5 @@
 
 ## This repo was used to learn git from amigoscode
 
-![cafe-151346_1280](https://github.com/Kamran2022/learning-git/assets/97768463/682e19e9-10d5-4e6a-9817-2c8b4e3a833f)
-
+https://amigoscode.com/courses/git-github
+![Copy of Copy of Copy of Copy of Copy of Untitled Design](https://github.com/Kamran2022/learning-git/assets/97768463/f29d7ef1-eb9f-42bf-b354-36075a786b2b)
